@@ -10,5 +10,10 @@ Mauris sit amet nibh vehicula, dignissim neque at, gravida arcu. Mauris facilisi
 
 Soy Samuel
 Master 1
+<<<<<<< HEAD
 Master 2
 
+=======
+Experimento 1
+Experimento 2
+>>>>>>> 1d22eeb (Experimento 2)
